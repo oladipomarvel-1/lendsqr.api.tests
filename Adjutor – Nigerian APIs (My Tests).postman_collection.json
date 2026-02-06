@@ -1,0 +1,27 @@
+{
+  "info": {
+    "_postman_id": "3f2d73c2-5eb5-40bf-860e-6eb26d8e2bc7",
+    "name": "Adjutor – Nigerian APIs (My Tests)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52137306",
+    "_collection_link": "https://go.postman.co/collection/52137306-3f2d73c2-5eb5-40bf-860e-6eb26d8e2bc7?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Check for Borrower on Ecosystem",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Check Karma for Customer",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
